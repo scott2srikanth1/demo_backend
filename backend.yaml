@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backend-container
-        image: scott2srikanth/demo_b:latest
+        image: scott2srikanth/myfsdcc_backend:latest
         ports:
         - containerPort: 5000
         
